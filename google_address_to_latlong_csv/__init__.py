@@ -1,6 +1,4 @@
 import csv
-from urllib.error import HTTPError, URLError
-
 import requests
 import json
 
