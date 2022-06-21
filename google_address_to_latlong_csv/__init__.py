@@ -3,14 +3,10 @@ import requests
 import json
 
 class AddressToLatLong:
-	def __init__(self, input) -> None:
-		GOOGLE_API_KEY = 'YOUR_API_KEY'
-		INPUT_CSV_FILE = 'input_file.csv'
-		OUTPUT_CSV_FILE = 'output_file.csv'
-
-	GOOGLE_API_KEY = 'YOUR_API_KEY'
-	INPUT_CSV_FILE = 'input_file.csv'
-	OUTPUT_CSV_FILE = 'output_file.csv'
+	def __init__(self, input_csv_file: str = 'input_file.csv', output_csv_file: str = 'output_file.csv', google_api_key: str = '') -> None:
+		self.INPUT_CSV_FILE = input_csv_file
+		self.OUTPUT_CSV_FILE = output_csv_file
+		self.GOOGLE_API_KEY = google_api_key
 
 	def search_with_areas(self):
 		with open(self.INPUT_CSV_FILE, encoding='latin-1') as r, \
