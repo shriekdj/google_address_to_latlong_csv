@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "google_address_to_latlong_csv"
-version = "0.1.1"
+version = "0.1.2"
 description = "This is an Python 3 Program which gets the list of data of addresses from an csv file and gives an output as csv with additional fields of latitude and longitude of the address provided by google GeoCoding API."
 authors = ["Shrikant Dhayje <shrikantdhayaje@gmail.com>"]
 license = "MIT"
