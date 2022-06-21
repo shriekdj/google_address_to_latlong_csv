@@ -8,7 +8,7 @@ class AddressToLatLong:
 		self.OUTPUT_CSV_FILE = output_csv_file
 		self.GOOGLE_API_KEY = google_api_key
 
-	def search_with_areas(self):
+	def run(self):
 		with open(self.INPUT_CSV_FILE, encoding='latin-1') as r, \
 				open(self.OUTPUT_CSV_FILE, 'w', newline='', encoding="utf-8") as o:
 			reader = csv.DictReader(r)
