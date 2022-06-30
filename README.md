@@ -44,7 +44,7 @@ app.run()
 
 the variable name `app` is not mandatory you can give any name to variable
 
-If Any Issues occured raise `GitHub Issue on` [issues](https://github.com/shriekdj/google_address_to_latlong_csv) or Contact Me via mail me.
+If Any Issues occured raise `GitHub Issue on` [issues](https://github.com/shriekdj/google_address_to_latlong_csv) or Contact Me via mail.
 
 My Name Is **Shrikant Dhayje**.
 My GitHub Username Is **[shriekdj](https://github.com/shriekdj)**.
