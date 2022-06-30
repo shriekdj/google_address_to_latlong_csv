@@ -14,6 +14,8 @@ This is a Python 3 Package which gets the list of data of addresses from an csv 
 
 ## Sample Input CSV File
 
+[Goto CSV File Link](./google_address_to_latlong_csv/input_file.csv)
+
 ```csv
 ID,Address
 1,"Nehru Nagar, Pimpri, Pune, Opp Sheetal Hotel, Pune, 411018"
