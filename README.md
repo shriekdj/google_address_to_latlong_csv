@@ -16,19 +16,18 @@ This is a Python 3 Package which gets the list of data of addresses from an csv 
 
 [Goto CSV File Link](./google_address_to_latlong_csv/input_file.csv)
 
-```csv
-ID,Address
-1,"Nehru Nagar, Pimpri, Pune, Opp Sheetal Hotel, Pune, 411018"
-2,"Rahatani Main Road, Rahatani, Pune, Near Baliraj Garden, Pune, 411017"
-3,"Chinchwad East, Pune, Near Thermax Chowk, Pune, 411019"
-4,"Shop No 7/61/2, Tapavan Road, Pimpri Gaon-Pimpri, Pune, Near Tapavan, Pune, 411018"
-5,"Chinchwad, Pune, Near Post Office Chaphekar Chowk, Pune, 411033"
-6,"Pune, Maharashtra, India, Pune, 411038"
-7,"New Sanghvi Rd, Sangavi, Pune, Near Famous Chowk, Pune, 411027"
-8,"Moshi, Pune, Nageshwar Nagar, Pune, 412105"
-9,"Near Chintamani Chowk, Pune, 411035"
-10,"Nigdi, Pune, Next Om Swadish Bhel, Pune, 411044"
-```
+| ID | Address |
+|--|--|
+| 1 | Nehru Nagar, Pimpri, Pune, Opp Sheetal Hotel, Pune, 411018 |
+| 2 | Rahatani Main Road, Rahatani, Pune, Near Baliraj Garden, Pune, 411017 |
+| 3 | Chinchwad East, Pune, Near Thermax Chowk, Pune, 411019 |
+| 4 | Tapavan Road, Pimpri Gaon-Pimpri, Pune, Near Tapavan, Pune, 411018 |
+| 5 | Chinchwad, Pune, Near Post Office Chaphekar Chowk, Pune, 411033 |
+| 6 | Pune, Maharashtra, India, Pune, 411038 |
+| 7 | New Sanghvi Rd, Sangavi, Pune, Near Famous Chowk, Pune, 411027 |
+| 8 | Moshi, Pune, Nageshwar Nagar, Pune, 412105 |
+| 9 | Near Chintamani Chowk, Pune, 411035 |
+| 10 | Nigdi, Pune, Next Om Swadish Bhel, Pune, 411044 |
 
 ## How to use the Package
 
